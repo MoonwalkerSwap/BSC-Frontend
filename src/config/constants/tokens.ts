@@ -12,6 +12,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://swap.moonwalker.network/tokens/dust',
   },
+   dust: {
+    symbol: 'SBT',
+    address: {
+      56: '0x5656201e75f95de97338623940610df26b140dd6',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://swap.moonwalker.network/tokens/sbt',
+  },
   wbnb: {
     symbol: 'WBNB',
     address: {
