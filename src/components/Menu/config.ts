@@ -59,27 +59,27 @@ const config: MenuEntry[] = [
   //     },
   //   ],
   // },
-  {
-    label: 'Info',
-    icon: 'InfoIcon',
-    items: [
-      {
-        label: 'Overview',
-        href: 'https://info.moonwalker.network',
-      },
-      {
-        label: 'Tokens',
-        href: 'https://info.moonwalker.network/tokens',
-      },
-      {
-        label: 'Pairs',
-        href: 'https://info.moonwalker.network/pairs',
-      },
-      {
-        label: 'Accounts',
-        href: 'https://info.moonwalker.network/accounts',
-      },
-    ],
+  //{
+  //  label: 'Info',
+  //  icon: 'InfoIcon',
+  //  items: [
+  //    {
+  //      label: 'Overview',
+  //      href: 'https://info.moonwalker.network',
+  //    },
+  //   {
+  //      label: 'Tokens',
+  //      href: 'https://info.moonwalker.network/tokens',
+  //    },
+  //    {
+  //      label: 'Pairs',
+  //      href: 'https://info.moonwalker.network/pairs',
+  //    },
+  //    {
+  //      label: 'Accounts',
+  //      href: 'https://info.moonwalker.network/accounts',
+  //    },
+  //  ],
   },
   {
      label: 'IDO',
