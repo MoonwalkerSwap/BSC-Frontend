@@ -82,7 +82,7 @@ const config: MenuEntry[] = [
     ],
   },
   {
-     label: 'IDO',
+     label: 'IFO',
      icon: 'IfoIcon',
      href: '/ifo',
   },
