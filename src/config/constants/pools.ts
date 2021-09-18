@@ -4,8 +4,8 @@ import { PoolConfig, PoolCategory } from './types'
 const pools: PoolConfig[] = [
   {
     spaceChefId: 0,
-    stakingToken: tokens.dust,
-    earningToken: tokens.busd,
+    stakingToken: tokens.wbnb,
+    earningToken: tokens.dust,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -18,8 +18,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 1,
-    stakingToken: tokens.dust,
-    earningToken: tokens.wbnb,
+    stakingToken: tokens.busd,
+    earningToken: tokens.dust,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -32,8 +32,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 2,
-    stakingToken: tokens.dust,
-    earningToken: tokens.aave,
+    stakingToken: tokens.aave,
+    earningToken: tokens.dust,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -46,8 +46,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 3,
-    stakingToken: tokens.dust,
-    earningToken: tokens.bifi,
+    stakingToken: tokens.bifi,
+    earningToken: tokens.dust,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -60,8 +60,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 4,
-    stakingToken: tokens.dust,
-    earningToken: tokens.atom,
+    stakingToken: tokens.atom,
+    earningToken: tokens.dust,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -74,8 +74,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 5,
-    stakingToken: tokens.dust,
-    earningToken: tokens.xrp,
+    stakingToken: tokens.xrp,
+    earningToken: tokens.dust,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -88,8 +88,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 6,
-    stakingToken: tokens.dust,
-    earningToken: tokens.xtz,
+    stakingToken: tokens.xtz,
+    earningToken: tokens.dust,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -102,8 +102,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 7,
-    stakingToken: tokens.dust,
-    earningToken: tokens.ltc,
+    stakingToken: tokens.ltc,
+    earningToken: tokens.dust,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -116,8 +116,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 8,
-    stakingToken: tokens.dust,
-    earningToken: tokens.juv,
+    stakingToken: tokens.juv,
+    earningToken: tokens.dust,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -130,8 +130,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 9,
-    stakingToken: tokens.dust,
-    earningToken: tokens.psg,
+    stakingToken: tokens.psg,
+    earningToken: tokens.dust,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -144,8 +144,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 10,
-    stakingToken: tokens.dust,
-    earningToken: tokens.bch,
+    stakingToken: tokens.bch,
+    earningToken: tokens.dust,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -158,8 +158,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 11,
-    stakingToken: tokens.dust,
-    earningToken: tokens.ctsi,
+    stakingToken: tokens.ctsi,
+    earningToken: tokens.dust,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -172,8 +172,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 12,
-    stakingToken: tokens.dust,
-    earningToken: tokens.ctk,
+    stakingToken: tokens.ctk,
+    earningToken: tokens.dust,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -186,8 +186,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 13,
-    stakingToken: tokens.dust,
-    earningToken: tokens.band,
+    stakingToken: tokens.band,
+    earningToken: tokens.dust,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
