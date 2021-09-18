@@ -84,7 +84,7 @@ const ComingSoon = () => {
             </Text>
             <Button
               as="a"
-              href="https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform"
+              href="https://form.jotform.com/212606130120031"
               target="_blank"
               rel="noopener noreferrer"
             >
