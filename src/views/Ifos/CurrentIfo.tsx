@@ -52,7 +52,7 @@ const Ifo = () => {
             <li>{TranslateString(598, 'Get DUST-BNB LP tokens by adding DUST and BNB liquidity')}</li>
           </List>
           <Flex mb="16px">
-            <LinkExternal href="https://exchange.pancakeswap.finance/#/swap" mr="16px">
+            <LinkExternal href="https://swap.moonwalker.network/#/swap" mr="16px">
               {TranslateString(1060, 'Buy DUST')}
             </LinkExternal>
             <LinkExternal href="https://swap.moonwalker.network/add/BNB/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82">
@@ -72,7 +72,7 @@ const Ifo = () => {
             <Button
               as="a"
               variant="secondary"
-              href="https://docs.pancakeswap.finance/core-products/ifo-initial-farm-offering"
+              href="https://docs.moonwalker.network/ifo-inital-farm-offering"
             >
               {TranslateString(610, 'Read more')}
             </Button>
@@ -90,7 +90,7 @@ const Ifo = () => {
             </Text>
             <Button
               as="a"
-              href="https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform"
+              href="https://form.jotform.com/212606130120031"
               external
             >
               {TranslateString(516, 'Apply to launch')}
