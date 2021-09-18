@@ -59,7 +59,7 @@ const config: MenuEntry[] = [
   //     },
   //   ],
   // },
-  //{
+  {
     label: 'Info',
     icon: 'InfoIcon',
     items: [
