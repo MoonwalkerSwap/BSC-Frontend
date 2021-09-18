@@ -100,7 +100,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Blog',
-        href: 'https://moonwalkerjim.medium.com/',
+        href: 'https://moonastrojim.medium.com/',
       },
     ],
   },
