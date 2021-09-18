@@ -32,8 +32,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 2,
-    stakingToken: tokens.aave,
-    earningToken: tokens.dust,
+    stakingToken: tokens.dust,
+    earningToken: tokens.aave,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -42,12 +42,12 @@ const pools: PoolConfig[] = [
     harvest: true,
     tokenPerBlock: '0.4629',
     sortOrder: 999,
-    isFinished: true,
+    isFinished: false,
   },
   {
     spaceChefId: 3,
-    stakingToken: tokens.bifi,
-    earningToken: tokens.dust,
+    stakingToken: tokens.dust,
+    earningToken: tokens.bifi,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -60,8 +60,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 4,
-    stakingToken: tokens.atom,
-    earningToken: tokens.dust,
+    stakingToken: tokens.dust,
+    earningToken: tokens.atom,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -74,8 +74,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 5,
-    stakingToken: tokens.xrp,
-    earningToken: tokens.dust,
+    stakingToken: tokens.dust,
+    earningToken: tokens.xrp,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -88,8 +88,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 6,
-    stakingToken: tokens.xtz,
-    earningToken: tokens.dust,
+    stakingToken: tokens.dust,
+    earningToken: tokens.xtz,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -102,8 +102,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 7,
-    stakingToken: tokens.ltc,
-    earningToken: tokens.dust,
+    stakingToken: tokens.dust,
+    earningToken: tokens.ltc,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -116,8 +116,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 8,
-    stakingToken: tokens.juv,
-    earningToken: tokens.dust,
+    stakingToken: tokens.dust,
+    earningToken: tokens.juv,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -130,8 +130,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 9,
-    stakingToken: tokens.psg,
-    earningToken: tokens.dust,
+    stakingToken: tokens.dust,
+    earningToken: tokens.psg,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -144,8 +144,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 10,
-    stakingToken: tokens.bch,
-    earningToken: tokens.dust,
+    stakingToken: tokens.dust,
+    earningToken: tokens.bch,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -158,8 +158,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 11,
-    stakingToken: tokens.ctsi,
-    earningToken: tokens.dust,
+    stakingToken: tokens.dust,
+    earningToken: tokens.ctsi,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -172,8 +172,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 12,
-    stakingToken: tokens.ctk,
-    earningToken: tokens.dust,
+    stakingToken: tokens.dust,
+    earningToken: tokens.ctk,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -186,8 +186,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 13,
-    stakingToken: tokens.band,
-    earningToken: tokens.dust,
+    stakingToken: tokens.dust,
+    earningToken: tokens.band,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
