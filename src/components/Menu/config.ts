@@ -80,7 +80,7 @@ const config: MenuEntry[] = [
   //      href: 'https://info.moonwalker.network/accounts',
   //    },
   //  ],
-  },
+  //},
   {
      label: 'IDO',
      icon: 'IfoIcon',
