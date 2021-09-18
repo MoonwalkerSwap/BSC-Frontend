@@ -56,7 +56,7 @@ const Ifo = () => {
               {TranslateString(1060, 'Buy DUST')}
             </LinkExternal>
             <LinkExternal href="https://swap.moonwalker.network/add/BNB/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82">
-              {TranslateString(1062, 'Get LP tokens')}
+              {TranslateString(1062, 'Get MoonWalker LP tokens')}
             </LinkExternal>
           </Flex>
           <Heading mb="16px">{TranslateString(600, 'During Sale')}:</Heading>
