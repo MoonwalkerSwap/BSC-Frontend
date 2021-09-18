@@ -4,8 +4,8 @@ import { PoolConfig, PoolCategory } from './types'
 const pools: PoolConfig[] = [
   {
     spaceChefId: 0,
-    stakingToken: tokens.wbnb,
-    earningToken: tokens.dust,
+    stakingToken: tokens.dust,
+    earningToken: tokens.bnb,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
@@ -18,8 +18,8 @@ const pools: PoolConfig[] = [
   },
   {
     spaceChefId: 1,
-    stakingToken: tokens.busd,
-    earningToken: tokens.dust,
+    stakingToken: tokens.dust,
+    earningToken: tokens.busd,
     contractAddress: {
       97: '',
       56: '0xc33729b1870d2a296df7ef9d498f93a1d3d1a40e',
