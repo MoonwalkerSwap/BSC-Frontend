@@ -27,7 +27,7 @@ const Hero = () => {
   return (
     <StyledHero>
       <Container>
-        <Title>{TranslateString(500, 'IDO: Initial DEX Offerings')}</Title>
+        <Title>{TranslateString(500, 'IFO: Initial Farm Offering')}</Title>
         <Blurb>{TranslateString(502, 'Buy new tokens with a brand new token sale model.')}</Blurb>
       </Container>
     </StyledHero>
