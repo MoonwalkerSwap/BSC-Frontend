@@ -55,7 +55,7 @@ const ComingSoon = () => {
       <Content>
         <div>
           <Block>
-            <Title as="h2">{TranslateString(999, 'Coming Soon to JetSwap.')}</Title>
+            <Title as="h2">{TranslateString(999, 'Coming Soon to MoonwalkerSwap.')}</Title>
             <Text mb={3}>
               {TranslateString(
                 504,
