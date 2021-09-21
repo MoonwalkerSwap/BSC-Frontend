@@ -8,14 +8,14 @@ import FarmStakingCard from 'views/Home/components/FarmStakingCard'
 import LotteryCard from 'views/Home/components/LotteryCard'
 import DustStats from 'views/Home/components/DustStats'
 // eslint-disable-next-line
-//import TotalValueLockedCard from 'views/Home/components/TotalValueLockedCard'
+import TotalValueLockedCard from 'views/Home/components/TotalValueLockedCard'
 import EarnAPYCard from 'views/Home/components/EarnAPYCard'
 // eslint-disable-next-line
 import EarnAssetCard from 'views/Home/components/EarnAssetCard'
 // eslint-disable-next-line
 import WinCard from 'views/Home/components/WinCard'
 
-// Jets
+// MoonJets
 import Jet1 from './components/Jet1'
 import Jet2 from './components/Jet2'
 import JetMobile from './components/JetMobile'
