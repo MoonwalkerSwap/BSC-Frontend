@@ -101,7 +101,7 @@ const Home: React.FC = () => {
             <Jet1/>
             <Container>
               <Heading as="h1" size="xl" mb="24px" color="text">
-                {TranslateString(576, 'MoonWalkerSwap')}
+                {TranslateString(576, 'BSC MoonWalkerSwap')}
               </Heading>
               <Text>{TranslateString(578, 'The Newest AMM and yield farm on Binance Smart Chain.')}</Text>
             </Container>
