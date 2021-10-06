@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://swap.moonwalker.network',
+        href: 'https://bsc-swap.moonwalker.network',
       },
       {
         label: 'Liquidity',
-        href: 'https://swap.moonwalker.network',
+        href: 'https://bsc-swap.moonwalker.network',
       },
     ],
   },
@@ -65,19 +65,19 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Overview',
-        href: 'https://info.moonwalker.network',
+        href: 'https://bsc-info.moonwalker.network',
       },
       {
         label: 'Tokens',
-        href: 'https://info.moonwalker.network/tokens',
+        href: 'https://bsc-info.moonwalker.network/tokens',
       },
       {
        label: 'Pairs',
-       href: 'https://info.moonwalker.network/pairs',
+       href: 'https://bsc-info.moonwalker.network/pairs',
       },
       {
         label: 'Accounts',
-        href: 'https://info.moonwalker.network/accounts',
+        href: 'https://bsc-info.moonwalker.network/accounts',
       },
     ],
   },
@@ -96,7 +96,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Docs',
-        href: 'https://docs.moonwalker.network',
+        href: 'https://bsc-docs.moonwalker.network',
       },
       {
         label: 'Blog',
