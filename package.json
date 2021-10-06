@@ -55,7 +55,7 @@
     "js-cookie": "^2.2.1",
     "lodash": "^4.17.20",
     "moonwalker-uikit": "^1.0.1",
-    "moonwalkerswap-uikit": "^1.1.0",
+    "moonwalkerswap-uikit": "^1.1.1",
     "node-fetch": "^2.6.1",
     "react": "^17.0.1",
     "react-chartjs-2": "^2.11.1",
