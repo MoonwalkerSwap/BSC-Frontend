@@ -31,7 +31,7 @@ const Circle = styled.div`
 `
 
 const EarnAssetCard = () => {
-  const activeNonDustPools = pools.filter((pool) => !pool.isFinished && !pool.earningToken.symbol.includes('CAKE'))
+  const activeNonDustPools = pools.filter((pool) => !pool.isFinished && !pool.earningToken.symbol.includes('DUST'))
   // eslint-disable-next-line
   const latestPools: Pool[] = orderBy(activeNonDustPools, ['sortOrder', 'pid'], ['desc', 'desc']).slice(0, 3)
   // Always include DUST
@@ -48,7 +48,7 @@ const EarnAssetCard = () => {
           <Heading color="text" size="lg">
             in Pools
           </Heading>
-          <NavLink exact activeClassName="active" to="/syrup" id="pool-cta">
+          <NavLink exact activeClassName="active" to="/pools" id="pool-cta">
             <Circle>
               <ArrowForwardIcon  color="#000000" />
             </Circle>
