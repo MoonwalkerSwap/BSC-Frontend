@@ -4,7 +4,7 @@ const ifos: Ifo[] = [
   {
     id: 'ble',
     address: '0xbc26a7fff9b971ef3c8356f264f8d6a47aea0fba',
-    isActive: true,
+    isActive: false,
     name: 'Billionaire Coin (BLE)',
     subTitle: 'AMM protocol incorporating multi-strategy yield optimization',
     description:
