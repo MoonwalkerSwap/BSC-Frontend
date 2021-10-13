@@ -10,7 +10,7 @@ const tokens = {
       97: '',
     },
     decimals: 18,
-    projectLink: 'https://swap.moonwalker.network/tokens/dust',
+    projectLink: 'https://bsc-swap.moonwalker.network/tokens/dust',
   },
    sbt: {
     symbol: 'SBT',
@@ -532,7 +532,7 @@ const tokens = {
       97: '',
     },
     decimals: 18,
-    projectLink: 'https://swap.moonwalker.network/tokens/mwk',
+    projectLink: 'https://bsc-swap.moonwalker.network/tokens/mwk',
   },
   ble: {
     symbol: 'BLE',
@@ -541,7 +541,7 @@ const tokens = {
       97: '',
     },
     decimals: 12,
-    projectLink: 'https://swap.moonwalker.network/tokens/ble',
+    projectLink: 'https://bsc-swap.moonwalker.network/tokens/ble',
   },
   dodo: {
     symbol: 'DODO',
