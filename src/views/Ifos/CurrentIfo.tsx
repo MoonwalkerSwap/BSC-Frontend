@@ -52,10 +52,10 @@ const Ifo = () => {
             <li>{TranslateString(598, 'Get DUST-BNB LP tokens by adding DUST and BNB liquidity')}</li>
           </List>
           <Flex mb="16px">
-            <LinkExternal href="https://swap.moonwalker.network/#/swap" mr="16px">
+            <LinkExternal href="https://bsc-swap.moonwalker.network/#/swap" mr="16px">
               {TranslateString(1060, 'Buy DUST')}
             </LinkExternal>
-            <LinkExternal href="https://swap.moonwalker.network/add/BNB/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82">
+            <LinkExternal href="https://bsc-swap.moonwalker.network/add/BNB/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82">
               {TranslateString(1062, 'Get MoonWalker LP tokens')}
             </LinkExternal>
           </Flex>
@@ -72,7 +72,7 @@ const Ifo = () => {
             <Button
               as="a"
               variant="secondary"
-              href="https://docs.moonwalker.network/ifo-inital-farm-offering"
+              href="https://bsc-docs.moonwalker.network/ifo-inital-farm-offering"
             >
               {TranslateString(610, 'Read more')}
             </Button>
