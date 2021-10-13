@@ -75,7 +75,7 @@ const ContributeModal: React.FC<Props> = ({ currency, contract, currencyAddress,
           )}
         </Text>
         <LinkExternal
-          href="https://swap.moonwalker.network/add/BNB/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82"
+          href="https://bsc-swap.moonwalker.network/add/BNB/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82"
           style={{ margin: '16px auto 0' }}
         >
           {`Get ${currency}`}
