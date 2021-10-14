@@ -113,14 +113,14 @@ const ActionPanel: React.FunctionComponent<ActionPanelProps> = ({ details, apr, 
   })
   const lpAddress = farm.lpAddresses[process.env.REACT_APP_CHAIN_ID]
   const bsc = `https://bscscan.com/address/${lpAddress}`
-  const info = `https://info.moonwalker.network/pair/${lpAddress}`
+  const info = `https://bsc-info.moonwalker.network/pair/${lpAddress}`
   const isCommunityFarm = communityFarms.includes(token.symbol)
 
   return (
     <Container>
       <InfoContainer>
         <StakeContainer>
-          <StyledLinkExternal href={`https://swap.moonwalker.network/add/${liquidityUrlPathParts}`}>
+          <StyledLinkExternal href={`https://bsc-swap.moonwalker.network/add/${liquidityUrlPathParts}`}>
             {TranslateString(999, `Get ${lpLabel}`, { name: lpLabel })}
           </StyledLinkExternal>
         </StakeContainer>
