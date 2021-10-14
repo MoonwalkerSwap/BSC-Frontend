@@ -1,7 +1,7 @@
-# Contributing to the MoonWalkerSwap ecosystem 🥞
+# Contributing to the BSC MoonWalkerSwap ecosystem 🌙
 
 Thanks for taking the time to contribute !
-You can start by reading our [Contribution guidelines](https://docs.moonwalker.network/contributing) first.
+You can start by reading our [Contribution guidelines](https://bsc-docs.moonwalker.network/contributing) first.
 
 ## Setup
 
