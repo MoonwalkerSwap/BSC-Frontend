@@ -19,7 +19,7 @@ const tokens = {
       97: '',
     },
     decimals: 18,
-    projectLink: 'https://swap.moonwalker.network/tokens/sbt',
+    projectLink: 'https://bsc-swap.moonwalker.network/tokens/sbt',
   },
   wbnb: {
     symbol: 'WBNB',
