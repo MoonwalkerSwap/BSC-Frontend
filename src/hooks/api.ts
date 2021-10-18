@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 
-export const baseUrl = 'https://api.pancakeswap.info/api/v2/tokens'
+export const baseUrl = 'https://moonwalker.network/bsc-api-prices'
 
 /* eslint-disable camelcase */
 
