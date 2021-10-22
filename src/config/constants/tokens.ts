@@ -525,15 +525,6 @@ const tokens = {
     decimals: 8,
     projectLink: 'https://dogecoin.com/',
   },
-  mwk: {
-    symbol: 'MWK',
-    address: {
-      56: '0x5751b2880d7fe4b1c9e7845ea58221456530afe7',
-      97: '',
-    },
-    decimals: 18,
-    projectLink: 'https://bsc-swap.moonwalker.network/tokens/mwk',
-  },
   ble: {
     symbol: 'BLE',
     address: {
