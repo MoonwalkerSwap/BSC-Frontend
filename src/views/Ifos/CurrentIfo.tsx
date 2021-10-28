@@ -55,7 +55,7 @@ const Ifo = () => {
             <LinkExternal href="https://bsc-swap.moonwalker.network/#/swap" mr="16px">
               {TranslateString(1060, 'Buy DUST')}
             </LinkExternal>
-            <LinkExternal href="https://bsc-swap.moonwalker.network/#/add/BNB/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82">
+            <LinkExternal href="https://bsc-swap.moonwalker.network/#/add/BNB/0x3f4478013b11952942e6718c2d3a7761631b6769">
               {TranslateString(1062, 'Get MoonWalker LP tokens')}
             </LinkExternal>
           </Flex>
