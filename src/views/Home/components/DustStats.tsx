@@ -31,7 +31,7 @@ const DustStats = () => {
     <StyledDustStats>
       <CardBody>
         <Heading size="xl" mb="24px">
-          {TranslateString(534, "DUST Stats")}
+          {TranslateString(534, "Stats")}
         </Heading>
         <CardImage src="/images/moon/wings.svg" alt="wings logo" width={64} height={64} />
         <Block>
