@@ -92,7 +92,8 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/MoonWalkerJim',
+        href: 'https://github.com/CryptoCoder50
+',
       },
       {
         label: 'Docs',
