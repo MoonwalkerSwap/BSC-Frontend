@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'bsc-moonwalker-swap-gz99tl5z4-cryptocoder50.vercel.app',
+        href: 'bsc-moonwalker-swap-gz99tl5z4-cryptocoder50.vercel.app/swap',
       },
       {
         label: 'Liquidity',
-        href: 'bsc-moonwalker-swap-gz99tl5z4-cryptocoder50.vercel.app',
+        href: 'bsc-moonwalker-swap-gz99tl5z4-cryptocoder50.vercel.app/pool',
       },
     ],
   },
