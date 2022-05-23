@@ -69,15 +69,15 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Tokens',
-        href: 'bsc-swap-info-grte2j46w-cryptocoder50.vercel.app',
+        href: 'bsc-swap-info-grte2j46w-cryptocoder50.vercel.app/tokens',
       },
       {
        label: 'Pairs',
-       href: 'bsc-swap-info-grte2j46w-cryptocoder50.vercel.app',
+       href: 'bsc-swap-info-grte2j46w-cryptocoder50.vercel.app/pairs',
       },
       {
         label: 'Accounts',
-        href: 'bsc-swap-info-grte2j46w-cryptocoder50.vercel.app',
+        href: 'bsc-swap-info-grte2j46w-cryptocoder50.vercel.app/accounts',
       },
     ],
   },
